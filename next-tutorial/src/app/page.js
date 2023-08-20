@@ -1,4 +1,4 @@
-import EventFunction from "../../public/components/EventFunctionState";
+import EventFunction from "@/components/EventFunctionState";
 import styles from "./page.module.css";
 
 export default function Home() {
